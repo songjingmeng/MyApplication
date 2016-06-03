@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println(s.equals("北京欢迎您！"));
+
+        //谢谢不用欢迎我了，很开心啊
     }
 }
